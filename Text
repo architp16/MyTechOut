@@ -1,0 +1,36 @@
+
+
+
+<HOMEWORK>
+Fix notification popup
+</HOMEWORK>
+
+<NOTES>
+Ver: 2.0.85
+https://www.diffchecker.com/download-trial
+https://material.io/develop/web/components/snackbars/
+
+Design
+https://blackrockdigital.github.io/startbootstrap-creative/
+
+Node.js NPM
+https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/README.md
+</NOTES>
+
+
+Colors:
+
+Green Text: #42c162
+Blue Text: #008cff
+Red Text: #ce1c1c
+Pink Title: #ff006a
+
+style="color:#008cff;"
+
+
+Setup
+git clone (https.wwww.comfdsfasfsa) (download it)
+gulp dev (start it up)
+git push -u origin master (Push to GitHub)
+gulp (To build)
+install gulp (sudo npm install -g gulp, npm rebuild node-sass, npm install firebase, npm install @material/snackbar)

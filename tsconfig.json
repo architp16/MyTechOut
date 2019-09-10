@@ -1,0 +1,19 @@
+{
+    "files": [
+        "src/enviroments/enviroment.ts",
+        "src/main.ts"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es5",
+        "esModuleInterop": true,
+        "module": "commonjs",
+        "sourceMap": true,
+        "noImplicitReturns": true,
+        "noUnusedLocals": true
+    },
+    "compileOnSave": true,
+    "include": [
+        "src"
+    ]
+}
